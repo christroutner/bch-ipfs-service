@@ -11,4 +11,4 @@ There are two main directories in this repository:
 
 ## License
 
-MIT
+[MIT](LICENSE.md)
