@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 5
+    },
+    "auditLog": "/home/trout/work/ipfs-service-provider/logs/.faa3f4c37d29b6644a4124d56792269593c8155c-audit.json",
+    "files": [
+        {
+            "date": 1620534772261,
+            "name": "/home/trout/work/ipfs-service-provider/logs/koa-test-2021-05-08.log",
+            "hash": "e5149aac3da8ea2304795bd4f9bd4000"
+        },
+        {
+            "date": 1620567243905,
+            "name": "/home/trout/work/ipfs-service-provider/logs/koa-test-2021-05-09.log",
+            "hash": "a09c14211c512d09fc715dd8ab71bd90"
+        }
+    ]
+}
