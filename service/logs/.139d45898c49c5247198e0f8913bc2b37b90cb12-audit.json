@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 5
+    },
+    "auditLog": "/home/trout/work/bch-ipfs-service/service/logs/.139d45898c49c5247198e0f8913bc2b37b90cb12-audit.json",
+    "files": [
+        {
+            "date": 1620702549444,
+            "name": "/home/trout/work/bch-ipfs-service/service/logs/koa-test-2021-05-10.log",
+            "hash": "0d0fd1e493e65e60f11ba46e126e8c61"
+        }
+    ]
+}
